@@ -1,0 +1,16 @@
+{
+  "name": "socket-io-telnet-relay-server",
+  "version": "0.1.0",
+  "description": "A relay server to connect telnet clients to socket.io servers",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "shadowtime2000",
+  "license": "MIT",
+  "dependencies": {
+    "net": "^1.0.2",
+    "socket.io-client": "^2.3.0"
+  }
+}
